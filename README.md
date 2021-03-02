@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ... killer apps
 - 🤔 I’m looking for help with ... 
 - 💬 Ask me about ... ANYTHING
-- 📫 How to reach me: ... here i.e. GitHub or [LinkedIn] (https://www.linkedin.com/in/david-e-alvarez/)
+- 📫 How to reach me: ... here i.e. GitHub or [LinkedIn](https://www.linkedin.com/in/david-e-alvarez/)
 - 😄 Pronouns: ... HE/HIM
 - ⚡ Fun fact: ... i LOVE pizza
 -->
