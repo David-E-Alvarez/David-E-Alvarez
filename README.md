@@ -1,10 +1,10 @@
-### Currently at Teen Challenge NorWestCal Nevada working on Squarespace/frontend i.e. HTML & CSS 👋
-
+### Currently at Teen Challenge NorWestCal Nevada working on Squarespace 👋
+[Teen Challenge NWCN site](https://www.teenchallenge.net/)
 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ... breaking into the tech field
-- 🌱 I’m currently learning ... HTML & CSS
+- 🌱 I’m currently learning ... HTML & CSS, responsive design
 - 👯 I’m looking to collaborate on ... Squarespace/fullstack web apps/sites
 - 🤔 I’m looking for help with ... Fullstack deving/software engineering/anything dev related e.g problem solving
 - 💬 Ask me about ... ANYTHING
