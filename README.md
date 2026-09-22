@@ -1,14 +1,5 @@
-### Currently at Teen Challenge NorWestCal Nevada working on Squarespace 👋
-[Teen Challenge NWCN site](https://www.teenchallenge.net/)
+Currently working on FCC (Udemy and Master.dev material too) curriculum brushing up my JS/"front end" skills
+Currently learning JS
+Looking for help with how to get a job or make money in tech
+Reach me at [LinkedIn](https://www.linkedin.com/in/david-e-alvarez/) or here
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ... breaking into the tech field
-- 🌱 I’m currently learning ... HTML & CSS, responsive design
-- 👯 I’m looking to collaborate on ... Squarespace/fullstack web apps/sites
-- 🤔 I’m looking for help with ... Fullstack deving/software engineering/anything dev related e.g problem solving
-- 💬 Ask me about ... ANYTHING
-- 📫 How to reach me: ... here i.e. GitHub or [LinkedIn](https://www.linkedin.com/in/david-e-alvarez/)
-- 😄 Pronouns: ... HE/HIM
-- ⚡ Fun fact: ... pizza is my favorite food and i LOVE pizza's of all kinds!
--->
